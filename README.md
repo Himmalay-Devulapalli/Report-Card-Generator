@@ -4,9 +4,9 @@ This is a python automation projects that automatically generates the report car
 
 # Modules Used 
 
-Tinter
-pandas
-fpdf
+Tinter__
+pandas__
+fpdf__
 PIL 
 
 
